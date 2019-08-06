@@ -8,10 +8,10 @@ DESCRIPTION
 This is an app that allows users to create,submit, based on categories
 User Stories
 
-    A users can see pitches that other people have posted
+  **  A users can see pitches that other people have posted
     A user can comment on different pitches and leave feedback
     A user can submit a pitch in any category
-    A user can submit to different categories
+    A user can submit to different categories**
 
 Prerequisites
 
