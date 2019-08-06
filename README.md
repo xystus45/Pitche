@@ -1,6 +1,6 @@
-APP NAME
-Pitches
-AUTHOR
+**APP NAME**
+*Pitches*
+***AUTHOR***
 
 Ngigi kariuki
 DESCRIPTION
